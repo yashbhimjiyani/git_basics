@@ -94,3 +94,7 @@ to merge a branch to another branch/master branch:
 
 git branch:	lists branches
 
+delete a merged branch:
+git branch -d <branchname>	we may get error in -d
+not to get an error use -D instead
+
