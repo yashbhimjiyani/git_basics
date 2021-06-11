@@ -87,3 +87,4 @@ creating a new branch:
 switching to master/any other branch 
 	git checkout master/any other branch
 
+$ git reset HEAD~1# Remove the most recent commit# Commit again
