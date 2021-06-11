@@ -88,3 +88,9 @@ switching to master/any other branch
 	git checkout master/any other branch
 
 $ git reset HEAD~1# Remove the most recent commit# Commit again
+
+to merge a branch to another branch/master branch:
+	git merge <branchname>
+
+git branch:	lists branches
+
