@@ -1,0 +1,4 @@
+*.log
+!dummy/file3.txt
+dummy/*
+second.txt
