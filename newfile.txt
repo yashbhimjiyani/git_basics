@@ -1,2 +1,2 @@
 some content
-this file shows content that is dummy yet helpful in driving the git basics understanding further!
+this file shows content that is dummy yet helpful in driving the git basics understanding further
