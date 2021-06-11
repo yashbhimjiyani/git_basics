@@ -98,3 +98,8 @@ delete a merged branch:
 git branch -d <branchname>	we may get error in -d
 not to get an error use -D instead
 
+git branch --merged 		//shows merged branches
+git branch --no-merged	//shows unmerged branches
+
+to delete a branch from remote:
+git push -d origin <branchname>
